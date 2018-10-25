@@ -1,0 +1,7 @@
+name: MoreMod
+version: 1.0.0
+
+main: de.morigm.moremod.Main
+
+commands:
+      weapon-give:
